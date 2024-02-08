@@ -1,6 +1,6 @@
 .wrapper {
-/*   background: url('lixi/img/cheems-1.png'); */
-  background-image: url('/lixi/img/bg.jpg');
+  background: url("lixi/img/bg.jpg");
+/*   background-image: url('/lixi/img/bg.jpg'); */
   position: relative;
   background-size: auto;
 }
