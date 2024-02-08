@@ -1,4 +1,5 @@
 .wrapper {
+  background: rgb(255, 218, 232);
   background: url("/lixi/img/bg.jpg");
   background-image: url("bg.jpg");
   position: relative;
