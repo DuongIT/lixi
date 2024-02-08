@@ -1,6 +1,6 @@
 .wrapper {
-  background: rgb(255, 218, 232);
-/*   background: url('/lixi/img/bg.jpg'); */
+/*   background: rgb(255, 218, 232); */
+  background: url('/lixi/img/bg.jpg');
   position: relative;
   background-size: auto;
 }
